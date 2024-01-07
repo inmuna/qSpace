@@ -1,0 +1,193 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+li,
+ul {
+	text-decoration: none;
+	list-style: none;
+}
+button {
+	all: unset;
+}
+
+body {
+	font-family: 'DM Sans', sans-serif;
+	overflow-x: hidden;
+	max-width: 1440px;
+
+	/* margin: 0 auto; */
+}
+
+.content {
+	padding: 0 120px;
+}
+.footer {
+	padding-top: 60px;
+	position: relative;
+}
+.pattern_1 {
+	position: absolute;
+	left: -124px;
+	top: 0px;
+}
+.footer-list {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.footer-list-itemTitle {
+	font-family: 'Questrial', sans-serif;
+	font-size: 48px;
+	line-height: 49.44px;
+	color: #000000;
+}
+.footer-list-item {
+	font-size: 20px;
+	color: #000000;
+	line-height: 26.04px;
+}
+.ring-content {
+	margin-top: 100px;
+}
+.ring-content-block {
+	position: relative;
+}
+.ring-left-block {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+	width: 726px;
+}
+.left-line-block {
+	display: flex;
+	flex-direction: column;
+}
+.ring-title-block {
+	position: relative;
+}
+.pattern_2 {
+	position: absolute;
+	top: 80%;
+	left: 55%;
+}
+.line_2 {
+	width: 180px;
+}
+.left-block-subtitle {
+	font-size: 18px;
+	line-height: 26.1px;
+	letter-spacing: 1px;
+	font-weight: 400;
+	color: #000000;
+}
+.left-block-title {
+	font-family: 'Questrial', sans-serif;
+	font-size: 56px;
+	line-height: 81.2px;
+	color: #000000;
+	font-weight: 400;
+}
+.left-block-text {
+	font-size: 19px;
+	color: #000000;
+	line-height: 31px;
+	max-width: 487px;
+}
+.left-block-button {
+	margin-top: 16px;
+	background-color: #ffb21e;
+	width: 282px;
+	border-radius: 8px;
+	display: flex;
+	align-items: center;
+	box-shadow: 4px 24px 9px -10px rgb(255 178 30 / 20%);
+}
+.button {
+	padding: 16px 16px 16px 66px;
+	font-size: 20px;
+	line-height: 31px;
+	font-weight: 700;
+	color: #ffffff;
+}
+.ring-right-block {
+}
+.ring-1 {
+	position: absolute;
+	top: -6%;
+	left: 70%;
+}
+.ring-2 {
+	position: absolute;
+	top: 67%;
+	left: 44%;
+}
+.ring-3 {
+	position: absolute;
+	left: 75%;
+}
+.pattern_3 {
+	position: absolute;
+	top: -2%;
+	left: 102%;
+}
+.Ellipse_1 {
+	position: absolute;
+	top: 71%;
+	left: 103%;
+}
+.pattern_4 {
+	position: absolute;
+	left: 28%;
+	top: 123%;
+}
+.pattern_5 {
+	position: absolute;
+	top: 117%;
+	left: -10%;
+}
+.tile-container {
+}
+.tile-text-one {
+	background-color: white;
+	border-radius: 8px;
+	padding: 16px;
+	font-size: 16px;
+	line-height: 24.8px;
+	font-weight: 400;
+	color: #000000;
+	position: absolute;
+	top: 5%;
+	left: 58%;
+}
+.tile-text-two {
+	background-color: white;
+	border-radius: 8px;
+	padding: 16px;
+	font-size: 16px;
+	line-height: 24.8px;
+	font-weight: 400;
+	color: #000000;
+	position: absolute;
+	left: 34%;
+	bottom: -40%;
+}
+.tile-text-three {
+	background-color: white;
+	border-radius: 8px;
+	padding: 15px;
+	font-size: 16px;
+	line-height: 24.8px;
+	font-weight: 400;
+	color: #000000;
+	position: absolute;
+	left: 88.5%;
+	bottom: -62%;
+	width: 166px;
+	height: 57px;
+	text-align: center;
+}
+.midle-content {
+	margin-top: 330px;
+}
